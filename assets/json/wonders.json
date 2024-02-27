@@ -1,0 +1,58 @@
+[
+    {
+        "label": "Wonders",
+        "name": "Wonders of the World",
+        "link": "https://en.wikipedia.org/wiki/Wonders_of_the_World",
+        "description": "The Seven Wonders of the Ancient World is the oldest known list of this type, documenting the most remarkable human-made creations of classical antiquity; it was based on guidebooks popular among Hellenic sightseers and as such only includes works located around the Mediterranean rim and in the ancient Near East. The number seven was chosen because the Greeks believed it represented perfection and plenty, and because it reflected the number of planets known in ancient times (five) plus the Sun and Moon.",
+        "image": ""
+    },
+    {
+        "label": "Pyramid",
+        "name" : "The Great Pyramid of Giza",
+        "link" : "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza",
+        "description": "The Great Pyramid of Giza is the largest Egyptian pyramid and served as the tomb of pharaoh Khufu, who ruled during the Fourth Dynasty of the Old Kingdom. Built in the early 26th century BC, over a period of about 27 years, the pyramid is the oldest of the Seven Wonders of the Ancient World, and the only wonder that has remained largely intact. It is the most famous monument of the Giza pyramid complex, which is part of the UNESCO World Heritage Site. It is situated at the northern end of the line of the three pyramids at Giza.",
+        "image" : ""
+    },
+    {
+        "label": "Colossus",
+        "name" : "The Colossus of Rhodes",
+        "link" : "https://en.wikipedia.org/wiki/Colossus_of_Rhodes",
+        "description": "The Colossus of Rhodes (Ancient Greek: ὁ Κολοσσὸς Ῥόδιος, romanized: ho Kolossòs Rhódios; Greek: Κολοσσός της Ρόδου, romanized: Kolossós tes Rhódou)[a] was a statue of the Greek sun god Helios, erected in the city of Rhodes, on the Greek island of the same name, by Chares of Lindos in 280 BC. One of the Seven Wonders of the Ancient World, it was constructed to celebrate the successful defence of Rhodes city against an attack by Demetrius I of Macedon, who had besieged it for a year with a large army and navy.",
+        "image" : ""
+    },
+    {
+        "label": "Gardens",
+        "name" : "The Hanging Gardens of Babylon",
+        "link" : "https://en.wikipedia.org/wiki/Hanging_Gardens_of_Babylon",
+        "description": "The Hanging Gardens of Babylon were one of the Seven Wonders of the Ancient World listed by Hellenic culture. They were described as a remarkable feat of engineering with an ascending series of tiered gardens containing a wide variety of trees, shrubs, and vines, resembling a large green mountain constructed of mud bricks. It was said to have been built in the ancient city of Babylon, near present-day Hillah, Babil province, in Iraq. The Hanging Gardens' name is derived from the Greek word κρεμαστός (kremastós, lit. 'overhanging'), which has a broader meaning than the modern English word 'hanging' and refers to trees being planted on a raised structure such as a terrace.",
+        "image" : ""
+    },
+    {
+        "label": "Lighthouse",
+        "name" : "The Lighthouse of Alexandria",
+        "link" : "https://en.wikipedia.org/wiki/Lighthouse_of_Alexandria",
+        "description": "The Lighthouse of Alexandria, sometimes called the Pharos of Alexandria (/ˈfɛərɒs/ FAIR-oss; Ancient Greek: ὁ Φάρος τῆς Ἀλεξανδρείας, romanized: ho Pháros tês Alexandreías, contemporary Koine Greek pronunciation: [ho pʰáros tɛ̂ːs aleksandrěːaːs]; Arabic: فنار الإسكندرية), was a lighthouse built by the Ptolemaic Kingdom of Ancient Egypt, during the reign of Ptolemy II Philadelphus (280–247 BC). It has been estimated to have been at least 100 metres (330 ft) in overall height. One of the Seven Wonders of the Ancient World, for many centuries it was one of the tallest man-made structures in the world.",
+        "image" : ""
+    },
+    {
+        "label": "Mausoleum",
+        "name" : "The Mausoleum at Halicarnassus",
+        "link" : "https://en.wikipedia.org/wiki/Mausoleum_at_Halicarnassus",
+        "description": "The Mausoleum at Halicarnassus or Tomb of Mausolus[a] (Ancient Greek: Μαυσωλεῖον τῆς Ἁλικαρνασσοῦ; Turkish: Halikarnas Mozolesi) was a tomb built between 353 and 350 BC in Halicarnassus (present Bodrum, Turkey) for Mausolus, an Anatolian from Caria and a satrap in the Achaemenid Empire, and his sister-wife Artemisia II of Caria. The structure was designed by the Greek architects Satyros and Pythius of Priene. Its elevated tomb structure is derived from the tombs of neighbouring Lycia, a territory Mausolus had invaded and annexed c. 360 BC, such as the Nereid Monument.",
+        "image" : ""
+    },
+    {
+        "label": "Statue",
+        "name" : "The Statue of Zeus at Olympia",
+        "link" : "https://en.wikipedia.org/wiki/Statue_of_Zeus_at_Olympia",
+        "description": "The Statue of Zeus at Olympia was a giant seated figure, about 12.4 m (41 ft) tall, made by the Greek sculptor Phidias around 435 BC at the sanctuary of Olympia, Greece, and erected in the Temple of Zeus there. Zeus is the sky and thunder god in ancient Greek religion, who rules as king of the gods of Mount Olympus.",
+        "image" : ""
+    },
+    {
+        "label": "Temple",
+        "name" : "The Temple of Artemis",
+        "link" : "https://en.wikipedia.org/wiki/Temple_of_Artemis",
+        "description": "The Temple of Artemis or Artemision (Greek: Ἀρτεμίσιον; Turkish: Artemis Tapınağı), also known as the Temple of Diana, was a Greek temple dedicated to an ancient, localised form of the goddess Artemis (equalized to Diana, a Roman goddess). It was located in Ephesus (near the modern town of Selçuk in present-day Turkey). By 401 AD it had been ruined or destroyed. Only foundations and fragments of the last temple remain at the site.",
+        "image" : ""
+    }
+]
