@@ -20,7 +20,7 @@ function load() {
             // iterate through the items
             object.forEach((value) => {
                 // Create a li element
-                menus.innerHTML += `<li>${value.label}</li>`;
+                menus.innerHTML += `<li class="header-element"><div class="header-image"><p class="header-label">${value.label}</p><img src="assets/images/${value.image}" /></div></li>`;
             });
         }
       }
