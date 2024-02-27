@@ -40,6 +40,11 @@ header {
     border-radius: 50%;
 }
 
+.header-image {
+    display: flex;
+    flex-direction: column;
+}
+
 .header-image:hover {
     scale: 150%;
 }
@@ -56,6 +61,13 @@ header {
     visibility: visible;
 }
 
-/* .header-element img:hover .header-label {
-    visibility: hidden;
-} */
+#description {
+    position: relative;
+    margin: 0 auto;
+    width: 50%;
+}
+
+#description p {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
