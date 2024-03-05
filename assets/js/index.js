@@ -16,6 +16,15 @@ async function load() {
             // Create li element
             menus.innerHTML += `<li class="header-element" id="${value.name}" onclick="handleClick('${value.name}')"><div class="header-image"><span class="header-label">${value.label}</span><img src="assets/images/${value.image}" /></div></li>`;
         });
+
+        // Set first menu as active
+        let headerElements = document.querySelectorAll(`.header-element > div`);
+        var span = document.createElement("span");
+        // Set active menu
+        span.classList.add("active");
+        headerElements[0].appendChild(span)
+        // Show description for the active menu
+        createDescription(object[0]);
     }
 }
 
@@ -37,14 +46,18 @@ async function handleClick(name) {
     const data = await loadData();
     if (data instanceof Array) {
         let currentWonder = data.find((value) => value.name == name);
-        let descriptionElement = document.getElementById("description");
-        descriptionElement.innerHTML = `<div>
+        createDescription(currentWonder);
+    }
+}
+
+function createDescription(currentWonder) {
+    let descriptionElement = document.getElementById("description");
+    descriptionElement.innerHTML = `<div>
         <h2>${currentWonder.label}</h2>
         <img src="assets/images/${currentWonder.image}" />
         <p>${currentWonder.description}</p>
         <a href="${currentWonder.link}">Read More</a>
         </div>`;
-    }
 }
 
 // function fetchUsingAjax() {
